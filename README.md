@@ -19,3 +19,5 @@ O robô verifica se tem energia suficiente para atirar (mais de 20 de energia).
 Esquiva de Balas:
 
 O robô possui uma estratégia de esquiva de balas. Se a energia do inimigo diminuir desde a última verificação, o robô assume que o inimigo atirou e realiza um movimento aleatório para evitar os tiros.
+
+Cor do Robô: Roxa
